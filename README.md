@@ -1,4 +1,4 @@
-# Geoshare
+# How Far Am I 
 
 Share location though a socket in real time for both clients. Made with node.js and leaflet 
 
